@@ -1,6 +1,6 @@
 img=rgb2gray(imread('filters.png'));
 
-threshold=10;
+threshold=11;
 
 blur(img,threshold,0);
 figure;
